@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/2c82b7aa-045f-45cd-b533-2c71db0c5e02/thumbnail" >
+</p>
 
 <!--
 **jocelynbrown96/jocelynbrown96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
