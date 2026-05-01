@@ -1,4 +1,6 @@
 <p align="center">
+  certified chaotic coding cutie ✨✨
+<p align="center">
   <img src="https://api.boot.dev/v1/users/public/2c82b7aa-045f-45cd-b533-2c71db0c5e02/thumbnail" >
 </p>
 
